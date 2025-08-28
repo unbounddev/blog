@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://blog.unbounddev.dev/'
 languageCode = 'en-us'
 title = "Today I Learned"
 copyright = 'unbounddev' # Used in the footer copyright mention.
